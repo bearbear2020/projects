@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.custom_title {
+	font-family:georgia,tahoma;
+	font-size:2em;
+	color:#333;
+}
